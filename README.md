@@ -86,12 +86,8 @@ We welcome collaborations and contributions! If you're interested in improving o
 ---
 
 ## 📜 **License**  
-This project is open source and licensed under the **MIT License**. Feel free to modify and distribute it.  
-
----
-
-## 🖼️ **Screenshots (Optional)**  
-> Add screenshots or GIFs here for a more engaging README. Use tools like LICEcap for GIFs or screenshot tools for images.
+This project is open source and licensed under the **MIT License**. Feel free to modify and distribute it.
+However, if you were to use the project, please notify us. Thank you.
 
 ---
 
@@ -99,6 +95,8 @@ This project is open source and licensed under the **MIT License**. Feel free to
 - Integration with payment gateways for direct checkout.  
 - Advanced analytics for store owners to track customer behavior and sales.  
 - User-friendly themes and UI improvements for a better experience.
+- Allows tabular data for product addings rather than manual inputs.
+- Location-based store identifier.
 
 ---
 
